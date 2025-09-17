@@ -9,4 +9,4 @@ I'm James, a passionate and motivated aspiring software developer. I recently gr
 I'm always open to discussions, collaborations, or just connecting with fellow enthusiasts. Don't hesitate to reach out:
 
 - Email: jamesdevers2021@gmail.com
-- LinkedIn: [James' LinkedIn Profile](https://www.linkedin.com/in/james-mccafferty-devers-41a914270/)
+- LinkedIn:(https://www.linkedin.com/in/james-mccafferty-devers-41a914270/)
