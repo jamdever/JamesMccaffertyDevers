@@ -1,9 +1,9 @@
 # Welcome to James' GitHub Repository!
 
-👋 Hey there! Welcome to my GitHub repository. Here, you'll find a glimpse into my journey as I explore the exciting world of software development.
+Hello! Welcome to my GitHub repository. Here, you'll get a glimpse into my journey as I explore the exciting world of software development.
 
 ## About Me
-I'm James, a student at ATU Sligo, delving into the realms of software through a general computing elective. I'm passionate about technology and eager to learn and grow as a developer.
+I'm James, a passionate and motivated aspiring software developer. I recently graduated and am eager to gain hands-on experience, learn new technologies, and grow my skills in building real-world applications.
 
 ## Languages and Tools
 <h3 align="left">Languages and Tools:</h3>
